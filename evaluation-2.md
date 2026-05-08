@@ -275,7 +275,11 @@ But fully replacing human decision-making across healthcare is unlikely to be ac
 
 # Improved Version
 
-(Rewrite the answer better in your own words)
+AI systems can significantly improve healthcare decision-making, but fully replacing human judgment is risky in most clinical situations.
+
+Healthcare decisions involve more than technical predictions. Doctors must consider ethical tradeoffs, patient preferences, emotional communication, uncertainty, and accountability. While AI can analyze large amounts of medical data quickly and sometimes outperform humans in narrow diagnostic tasks, these systems can still make errors, reflect biases in training data, or fail in unusual situations.
+
+The most realistic future is likely a collaborative model where AI acts as a decision-support tool while human professionals maintain responsibility for oversight, empathy, ethical judgment, and final decision-making.
 
 ---
 
